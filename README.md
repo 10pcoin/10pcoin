@@ -5,7 +5,6 @@
 - 📫 How to reach me this i guess
 - 😄 Pronouns: he him
 - ⚡ Fun fact: i used to have the world record for the most watermelons smashed by my head in 1 min
-
 <!---
 10pcoin/10pcoin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
